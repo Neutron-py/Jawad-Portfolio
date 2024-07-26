@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "sourceMapRenames": "home-1.html",
+            "file": "c:\\Users\\mokad\\OneDrive\\Desktop\\Jawad Portfolio\\ashley\\home-1.html"
+        },
+
+
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "home-2.html",
+            "file": "c:\\Users\\mokad\\OneDrive\\Desktop\\Jawad Portfolio\\ashley\\home-2.html"
+        }
+    ]
+}
